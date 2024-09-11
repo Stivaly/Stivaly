@@ -38,6 +38,15 @@ Soy Stivaly Gómez, una desarrolladora en constante aprendizaje y lista para enf
 - 💼 **Experiencia:** He trabajado en proyectos que abarcan desde aplicaciones web con **Vue.js** y **Django**, hasta la integración de APIs y automatización de procesos.
 - 🌱 **Aprendizaje Continuo:** Siempre estoy buscando aprender nuevas tecnologías, actualmente me encuentro aprendiendo **Java** y herramientas de patrones de diseño, para mejorar la calidad de los proyectos en los que participo.
 
+### 🗒️ Certificados
+- Diseño y Gestión de Base de Datos - Inacap - Julio 2024
+- Diseño Ágil de Sistemas - Inacap - Julio 2024
+- Desarrollo de Aplicaciones Básicas - Inacap - Enero 2024
+- Soporte Computacional - Inacap - Enero 2024
+- Data Analytics Certified Professional - Google - Septiembre 2023
+- Scrum Foundation Professional - CertiProf - Agosto 2023
+- Seeds for the Future Program - Huawei - Julio 2023
+
 ### 🛠️ Lo que me Apasiona
 - 🔍 **Resolución de Problemas:** Me encanta enfrentarme a desafíos y encontrar soluciones que no solo funcionen, sino que también sean elegantes y escalables.
 - 🎨 **Backend:** Disfruto diseñar y construir APIs robustas, gestionar bases de datos y optimizar el rendimiento de los servidores. Me motiva resolver problemas complejos y garantizar que cada pieza del sistema trabaje en perfecta sincronía.
