@@ -1,7 +1,8 @@
-## Hi there 👋
+<p align="center">
+<strong>🙌 ¡Bienvenidos a mi perfil!</strong> </br> 
+Soy Stivaly Gómez, una desarrolladora en constante aprendizaje y lista para enfrentar cualquier reto tecnológico. 🚀
+</p>
 
-<!--
-**Stivaly/Stivaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
