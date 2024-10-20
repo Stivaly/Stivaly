@@ -2,7 +2,7 @@
 <strong>🙌 ¡Bienvenidos a mi perfil!</strong> </br> 
 </h1>
 <p align="center">
-Soy Stivaly Gómez, una desarrolladora en constante aprendizaje y lista para enfrentar cualquier reto tecnológico. 🚀
+Soy Stivaly Gómez, una desarrolladora en constante aprendizaje y preparada para enfrentar retos tecnológicos. 🚀
 </p>
 
 <div align="center">
@@ -49,7 +49,7 @@ Soy Stivaly Gómez, una desarrolladora en constante aprendizaje y lista para enf
 
 ### 🛠️ Lo que me Apasiona
 - 🔍 **Resolución de Problemas:** Me encanta enfrentarme a desafíos y encontrar soluciones que no solo funcionen, sino que también sean elegantes y escalables.
-- 🎨 **Backend:** Disfruto diseñar y construir APIs robustas, gestionar bases de datos y optimizar el rendimiento de los servidores. Me motiva resolver problemas complejos y garantizar que cada pieza del sistema trabaje en perfecta sincronía.
+- 🎨 **Ingeniería de Datos:** Disfruto diseñar y construir modelos de datos que permitan gestionar bases de datos y optimizar el rendimiento de la entrega de información para la toma de decisiones. Me motiva resolver problemas complejos y garantizar que cada pieza del sistema trabaje en sincronía. Profundizando en la smatemáticas para poder construir modelos de proyección financiera.
 - 🤝 **Colaboración:** El trabajando en equipo es de mis mayores fuertes, compartir conocimiento y aprender de los demás ha sido una gran motivación.
 
 ### 🌟 Datos Curiosos
