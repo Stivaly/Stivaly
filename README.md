@@ -26,19 +26,20 @@ Soy Stivaly Gómez, una desarrolladora en constante aprendizaje y preparada para
 
 ## 🚀 Proyectos Destacados
 
-- **[Librería El Gran Poeta](https://github.com/Stivaly/Librerial-el-gran-poeta):** Sistema de inventario para una librería con API REST, autenticación y gestión de productos.
+- **[Fingraphix](https://github.com/Stivaly/FinGraphix):** Sistema de manejo de finanzas personales enfocado en desarrollo backend.
 
-- **[Manejador de Tareas Kanban](https://github.com/Stivaly/task-management):** Aplicación de gestión de tareas con diseño reactivo.
+- **[Goal Stats](https://github.com/Stivaly/Goal-Stats):** Aplicación de gestión de tareas con diseño reactivo.
 
 ## 🌐 Conecta Conmigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/stivaly-gomez/)
 
 ### 🎯 ¿Quién Soy?
-- 🎓 **Formación:** Estudiante de Ingeniería en Informática en INACAP, con una fuerte base en desarrollo de software y metodologías ágiles.
-- 💼 **Experiencia:** He trabajado en proyectos que abarcan desde aplicaciones web con **Vue.js** y **Django**, hasta la integración de APIs y automatización de procesos.
-- 🌱 **Aprendizaje Continuo:** Siempre estoy buscando aprender nuevas tecnologías, actualmente me encuentro aprendiendo **Java** y herramientas de patrones de diseño, para mejorar la calidad de los proyectos en los que participo.
+- 🎓 **Formación:** Egresada Técnico Analista Programador con conitnuidad en Ingeniería en Informática en INACAP, con una fuerte base en desarrollo de software, análisis de datos, finanzas y metodologías ágiles.
+- 💼 **Experiencia:** He trabajado en proyectos que abarcan desde aplicaciones web con **Vue.js** y **Django**, proyectos en **PHP** y **Laravel** full stack.
+- 🌱 **Aprendizaje Continuo:** Siempre estoy buscando aprender nuevas tecnologías, actualmente me encuentro aprendiendo **Java** y realizando la formación para certificación **Azure Fundamentals** y herramientas de patrones de diseño, para mejorar la calidad de los proyectos en los que participo.
 
 ### 🗒️ Certificados
+- Desarrollador Fullstck - Inacap - Enero 2024
 - Diseño y Gestión de Base de Datos - Inacap - Julio 2024
 - Diseño Ágil de Sistemas - Inacap - Julio 2024
 - Desarrollo de Aplicaciones Básicas - Inacap - Enero 2024
