@@ -30,12 +30,14 @@ I am Stivaly Gómez, a developer in constant learning and ready to face technolo
 
 - **[Goal Stats](https://github.com/Stivaly/Goal-Stats):** Sports monitoring application
 
+- **[Banco BI](https://github.com/Stivaly/banco-bi):** Data Pipeline for Bank Analysis
+
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/stivaly-gomez/)
 
 ### 🎯 Who am I?
-- 🎓 **Training:** Graduated as a Technical Analyst Programmer with a degree in Computer Engineering from INACAP, with a strong background in software development, data analysis, finance and agile methodologies.
-- 💼 **Experience:** I have worked on projects ranging from web applications with **Vue.js** and **Django**, projects in **PHP** and **Laravel** full stack.
+- 🎓 **Training:** Graduated as a Technical Analyst Programmer from INACAP, with a strong background in software development, data analysis, finance and agile methodologies.
+- 💼 **Experience:** I have worked on projects ranging from web applications with **Vue.js** and **Django**, projects in **PHP** and **Laravel** full stack, data analysis with **Power BI** & **Tableau** and Data Engineering with **Polars**, **SQL**, **BigQuery**, .
 - 🌱 **Continuous Learning:** I am always looking to learn new technologies, I am currently learning **Java** and doing **Azure Fundamentals** certification training and design pattern tools, to improve the quality of the projects in which I participate.
 
 ### 🗒️ Certificates
