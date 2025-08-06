@@ -1,6 +1,9 @@
 <h1 align="center">
 <strong>🙌 Welcome to my profile!</strong> </br> 
 </h1>
+<p align="center">
+I am Stivaly Gómez, a developer in constant learning and ready to face technological challenges. 🚀
+</p>
 
 ### 🛠️ What I'm Passionate About
 - 🔍 **Problem Solving:** I love tackling challenges and finding solutions that not only work, but are also elegant and scalable.
@@ -12,10 +15,6 @@
 - 💼 **Experience:** I have worked on projects ranging from web applications with **Vue.js** and **Django**, projects in **PHP** and **Laravel** full stack, data analysis with **Power BI** & **Tableau** and Data Engineering with **Polars**, **SQL**, **BigQuery**, .
 - 🌱 **Continuous Learning:** I am always looking to learn new technologies, I am currently learning **Java** and doing **Azure Fundamentals** certification training and design pattern tools, to improve the quality of the projects in which I participate.
   
-<p align="center">
-I am Stivaly Gómez, a developer in constant learning and ready to face technological challenges. 🚀
-</p>
-
 <div align="center">
     <img src="VmZqucttCw33nmJDcc7r--1--rjrcy.jpg" width="450" height="450">
 </div>
